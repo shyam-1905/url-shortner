@@ -36,7 +36,7 @@ A modern URL shortening application built with React and Supabase, offering URL 
 1. Clone the repository:
 ```
 
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/shyam-1905/url-shortener.git
 cd url-shortener
 
 ```
@@ -80,7 +80,6 @@ yarn dev
 
 The application will be available at `http://localhost:5173` by default.
 
-## Building for Production
 
 
 
